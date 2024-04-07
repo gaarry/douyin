@@ -32,13 +32,13 @@
 
 Vercel:<http://dy.ttentau.top/>(China empfiehlt den Besuch hier)
 
-Netlify:<https://douyins.netlify.app/>(Für Gebiete außerhalb Chinas wird ein Besuch empfohlen)
+Netlify:<https://douyins.netlify.app/>(Für Gebiete außerhalb Chinas empfehlen wir den Besuch hier)
 
 Android-Apk:<https://github.com/zyronon/douyin/releases>
 
 **Beachten**：`PC`Sie müssen den Browser in den mobilen Modus schalten, zuerst drücken`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`um eine normale Vorschau anzuzeigen
 
-**Beachten**: Bitte benutzen Sie Ihr Mobiltelefon[über Browser](https://viayoo.com/zh-cn/)oder Chrome-Browservorschau. Andere Browser erzwingen möglicherweise die Vollbilddarstellung des Videos, wodurch es nicht richtig angezeigt wird.
+**Beachten**: Bitte benutzen Sie Ihr Mobiltelefon[über Browser](https://viayoo.com/zh-cn/)oder Chrome-Browservorschau. Andere Browser erzwingen möglicherweise, dass das Video im Vollbildmodus angezeigt wird, was dazu führt, dass es nicht richtig angezeigt wird.
 
 ## Haftungsausschluss
 
@@ -61,7 +61,7 @@ npm run dev
 
 Öffnen Sie Ihren Browser und besuchen Sie:<http://127.0.0.1:3000>
 
-**Hinweis: Der PC-Browser muss zuerst in den Mobilmodus geschaltet werden`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`um eine normale Vorschau anzuzeigen**
+**Hinweis: Der PC muss den Browser in den Mobilmodus schalten, zuerst drücken`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`um eine normale Vorschau anzuzeigen**
 
 ## Verknüpfung
 
@@ -102,7 +102,8 @@ Sie können meine E-Mail kontaktieren<a href="mailto:zyronon@163.com">zyronon@16
 
 > Teilen Sie meine anderen Open-Source-Projekte:
 >
-> _[**Wort eingeben**- Software zum Auswendiglernen von Vokabeln, die im Internet verwendet werden kann](https://github.com/zyronon/typing-word)<img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
+> _[**Typing Word
+> **- Software zum Auswendiglernen von Vokabeln, die im Internet verwendet werden kann](https://github.com/zyronon/typing-word)<img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
 > _[**Webskripte**- Einige nützliche Grease Monkey-Skripte ~](https://github.com/zyronon/web-scripts)<img src="https://img.shields.io/github/stars/zyronon/web-scripts.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
 
 ## Vereinbarung
