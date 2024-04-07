@@ -13,7 +13,7 @@
   <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
 </p>
 
-`douyin-vue`est une parodie`抖音|TikTok`projet de courte vidéo mobile, basé sur[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)accomplir. Utilisé le dernier`Vue`Pile technologique FamilyMart. Les données API sont enregistrées localement dans le projet et la vidéo est collectée à partir de`抖音|TikTok`, l'atlas est collecté auprès de`小红书|Xiaohongshu`,passer[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)La bibliothèque intercepte l'API et renvoie des données json locales pour simuler de véritables requêtes back-end.
+`douyin-vue`est une parodie`抖音|TikTok` 的移动端短视频项目，它基于 [`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)accomplir. Utilisé le dernier`Vue`Pile technologique FamilyMart. Les données API sont enregistrées localement dans le projet et la vidéo est collectée à partir de`抖音|TikTok`, l'atlas est collecté auprès de`小红书|Xiaohongshu`,passer[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)La bibliothèque intercepte l'API et renvoie des données json locales pour simuler de véritables requêtes back-end.
 
 <div>
 <img width="150px" src='docs/imgs/1.gif' />
@@ -32,7 +32,7 @@
 
 Vercel :<http://dy.ttentau.top/>(La Chine recommande de visiter ceci)
 
-Netlifier :<https://douyins.netlify.app/>(Recommandé de visiter ceci pour les zones en dehors de la Chine)
+Netlifier :<https://douyins.netlify.app/>(Je recommande de visiter ceci pour les régions en dehors de la Chine)
 
 Android Apk :<https://github.com/zyronon/douyin/releases>
 
@@ -61,7 +61,7 @@ npm run dev
 
 Ouvrez votre navigateur et visitez :<http://127.0.0.1:3000>
 
-**Remarque : le navigateur du PC doit être basculé en mode mobile, appuyez d'abord sur`F12`Pour afficher la console, appuyez sur`Ctrl+Shift+M`pour prévisualiser normalement**
+**Remarque : le PC doit passer le navigateur en mode mobile, appuyez d'abord sur`F12`Pour afficher la console, appuyez sur`Ctrl+Shift+M`pour prévisualiser normalement**
 
 ## Lien
 
