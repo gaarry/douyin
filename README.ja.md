@@ -13,7 +13,7 @@
   <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
 </p>
 
-`douyin-vue`パロディです`抖音|TikTok`をベースにしたモバイルショートビデオプロジェクト[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)成し遂げる。最新のものを使用しました`Vue`ファミリーマートのテクノロジースタック。 API データはプロジェクト内でローカルに保存され、ビデオはから収集されます。`抖音|TikTok`、アトラスはから収集されています`小红书|Xiaohongshu`、合格[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)ライブラリは API をインターセプトし、ローカルの JSON データを返して、実際のバックエンド リクエストをシミュレートします。
+`douyin-vue`パロディです`抖音|TikTok`をベースにしたモバイルショートビデオプロジェクト[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)成し遂げる。最新のものを使用しました`Vue`ファミリーマートのテクノロジースタック。 API データはプロジェクト内でローカルに保存され、ビデオはから収集されます。`抖音|TikTok`、アトラスはから収集されています`小红书|Xiaohongshu`、合格[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter) 库拦截Api 并返回本地json数据，模拟出真实的后端请求
 
 <div>
 <img width="150px" src='docs/imgs/1.gif' />
@@ -32,17 +32,17 @@
 
 ヴェルセル:[ｈっｔｐ：／／ｄｙ。ってんたう。とｐ／](http://dy.ttentau.top/)（中国はここを訪れることを推奨しています）
 
-ネットリファイ:[ｈっｔｐｓ：／／どうｙいんｓ。ねｔぃｆｙ。あっｐ／](https://douyins.netlify.app/)(中国以外の地域については、こちらを参照することをお勧めします)
+ネットリファイ:[ｈっｔｐｓ：／／どうｙいんｓ。ねｔぃｆｙ。あっｐ／](https://douyins.netlify.app/)(中国以外の地域の場合は、こちらを参照することをお勧めします)
 
 アンドロイドAPK:[ｈっｔｐｓ：／／ぎてゅｂ。こｍ／ｚｙろのん／どうｙいん／れぇあせｓ](https://github.com/zyronon/douyin/releases)
 
-**注意**：`PC`ブラウザをモバイル モードに切り替えて、最初に を押す必要があります。`F12` 调出控制台，再按 `Ctrl+Shift+M`通常にプレビューする
+**注意**：`PC`ブラウザをモバイル モードに切り替えて、最初に を押す必要があります。`F12`コンソールを表示するには、 を押します。`Ctrl+Shift+M`通常にプレビューする
 
 **注意**: 携帯電話をご利用ください[ブラウザ経由](https://viayoo.com/zh-cn/)またはChromeブラウザのプレビュー。他のブラウザではビデオが強制的に全画面表示になり、正しく表示されない場合があります。
 
 ## 免責事項
 
-本项目仅适用于学习和研究，不得用于商业使用
+このプロジェクトは調査と研究のみを目的としており、商用目的ではありません
 
 ## 走る
 
@@ -59,9 +59,9 @@ npm install
 npm run dev
 ```
 
-ブラウザを開いて、以下にアクセスしてください。[ｈっｔｐ：／／１２７。０。０。１：３０００](http://127.0.0.1:3000)
+打开浏览器并访问: [ｈっｔｐ：／／１２７。０。０。１：３０００](http://127.0.0.1:3000)
 
-**注: PC ブラウザを最初に押してモバイル モードに切り替える必要があります。`F12`コンソールを表示するには、 を押します。`Ctrl+Shift+M`通常にプレビューする**
+**注: PC はブラウザをモバイル モードに切り替える必要があり、最初に押します。`F12`コンソールを表示するには、 を押します。`Ctrl+Shift+M`通常にプレビューする**
 
 ## リンク
 
@@ -69,15 +69,15 @@ npm run dev
 -   `V2EX`：[ｈっｔｐｓ：／／ｗっｗ。ｖ２えｘ。こｍ／ｔ／１０２８６７８](https://www.v2ex.com/t/1028678)
 -   `掘金`：[ｈっｔｐｓ：／／じゅえじん。ｃん／ぽｓｔ／７３５２８１３３５２０５１６８７４５８](https://juejin.cn/post/7352813352051687458)
 
-## データソース
+## 数据来源
 
 このビデオは以下のDouyinの有名人からのものです
 
 -   `我是香秀 🐂🍺`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹらぱ２Ｌ／](https://v.douyin.com/iYRAPA2L/)
--   `杨老虎 🐯（磕穿下巴掉牙版）`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹら５６で／](https://v.douyin.com/iYRA56de/)
+-   `杨老虎 🐯（磕穿下巴掉牙版）`：<https://v.douyin.com/iYRA56de/>
 -   `条子`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹらあｑｊｒ／](https://v.douyin.com/iYRAaqjr/)
 -   `达莎 Digi`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹら６ｒｗＴ／](https://v.douyin.com/iYRA6rwT/)
--   `小橙子`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹらぬｄｗ／](https://v.douyin.com/iYRAnudw/)
+-   `小橙子`：<https://v.douyin.com/iYRAnudw/>
 -   `南恬`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹらｂＫｍ３／](https://v.douyin.com/iYRAbKm3/)
 -   `小霸宠牛排 🥩`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹＲそｓＶＢ／](https://v.douyin.com/iYRSosVB/)
 -   `奶茶妹 ◕🌱`：[ｈっｔｐｓ：／／ｖ。どうｙいん。こｍ／いＹらＣＫｈＰ／](https://v.douyin.com/iYRACKhP/)
@@ -93,8 +93,8 @@ npm run dev
 
 ## 特徴と提案
 
-現在、プロジェクトは開発の初期段階にあり、新しい機能が継続的に追加されていますが、ソフトウェアの機能や提案がありましたら、お気軽にお問い合わせください。`Issues`で育ちました
-このソフトウェアのデザインアイデアも気に入っていただけましたら、ぜひ送信してください`PR`、 ご支援ありがとうございました！
+現在、プロジェクトは開発の初期段階にあり、新しい機能が継続的に追加されていますが、ソフトウェアの機能や提案がありましたら、お気軽にお問い合わせください。`Issues` 中提出
+如果你也喜欢本软件的设计思想，欢迎提交 `PR`、 ご支援ありがとうございました！
 
 ## 私に連絡して
 
@@ -102,7 +102,7 @@ npm run dev
 
 > 私の他のオープンソース プロジェクトを共有してください:
 >
-> _[**単語を入力する**～Web上で使える単語暗記ソフト～](https://github.com/zyronon/typing-word)<img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
+> _[**単語を入力する** - 可在网页上使用的背单词软件~](https://github.com/zyronon/typing-word)<img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
 > _[**ウェブスクリプト**- いくつかの便利な Grease Monkey スクリプト~](https://github.com/zyronon/web-scripts)<img src="https://img.shields.io/github/stars/zyronon/web-scripts.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
 
 ## 合意
